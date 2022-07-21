@@ -19,7 +19,7 @@ public class DemoThread {
 
 ChildThread t=new ChildThread ();
 t.start();
-t.j
+
 for (int i=0;i<10;i++)
 {
 	System.out.println("main thread");
